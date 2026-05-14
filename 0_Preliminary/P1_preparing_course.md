@@ -189,8 +189,7 @@ The following tasks have to be done in this first session:
 
  - [ ] Generate groups in Atenea
  - [ ] Create a [GitHub account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) with the UPC mail, if you don't have already it.
- - [ ] Make this first assignment (it will be not assessed) to become familiar with git and GitHub
-
+ - [ ] Make this [first assignment](https://classroom.github.com/a/J5rl8ET-) (it will not be assessed) to become familiar with git and GitHub
 
 
 
