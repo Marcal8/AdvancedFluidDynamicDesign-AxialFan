@@ -118,7 +118,24 @@ The grading is more detailed in the [course guide](https://eseiaat.upc.edu/en/pr
 
 A brief summary of the weights is:
 
-- 
+| Topic | Weight |
+|-------|--------|
+| Project report v0 | 15% |
+| Project report v1 | 20% |
+| Project report v2 | 30% |
+| Presentation | 10% |
+| Exam | 25% |
+
+A co-evaluation factor $F \in (0.75,1.25)$ will be computed for each component of the groups from anonymous inquiry, in order to reward the most contributive members, and avoid the free-riders. This factor $F$ will modify only the 65% part related to the project report.
+
+That is, the grade of each student will be computed with the equation
+
+$$
+\text{Grade} = \left(G_{v0}\times0.15 + G_{v1}\times0.20 + G_{v2}\times0.30  \right)\times F + G_{pr}\times 0.1 + G_{ex}\times 0.25
+$$
+
+of course, with a maximum of 10/10.
+
 
 ## Quality criteria
 
@@ -171,7 +188,7 @@ The report releases have to fulfill the following quality criteria:
 The following tasks have to be done in this first session:
 
  - [ ] Generate groups in Atenea
- - [ ] Create a GitHub account with the UPC mail, if you don't have already it.
+ - [ ] Create a [GitHub account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) with the UPC mail, if you don't have already it.
  - [ ] Make this first assignment (it will be not assessed) to become familiar with git and GitHub
 
 
