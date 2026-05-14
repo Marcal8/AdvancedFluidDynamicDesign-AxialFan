@@ -120,9 +120,9 @@ A brief summary of the weights is:
 
 | Topic | Weight |
 |-------|--------|
-| Project report v0 | 15% |
-| Project report v1 | 20% |
-| Project report v2 | 30% |
+| Project report r0 | 15% |
+| Project report r1 | 20% |
+| Project report r2 | 30% |
 | Presentation | 10% |
 | Exam | 25% |
 
@@ -131,7 +131,7 @@ A co-evaluation factor $F \in (0.75,1.25)$ will be computed for each component o
 That is, the grade of each student will be computed with the equation
 
 $$
-\text{Grade} = \left(G_{v0}\times0.15 + G_{v1}\times0.20 + G_{v2}\times0.30  \right)\times F + G_{pr}\times 0.1 + G_{ex}\times 0.25
+\text{Grade} = \left(G_{r0}\times0.15 + G_{r1}\times0.20 + G_{r2}\times0.30  \right)\times F + G_{pr}\times 0.1 + G_{ex}\times 0.25
 $$
 
 of course, with a maximum of 10/10.
