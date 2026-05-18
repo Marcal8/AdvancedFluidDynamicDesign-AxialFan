@@ -31,7 +31,7 @@ have access to our educational plan
 In order to become familiar with CFD in Simscale,
 
 1. Read the basic information about Incompressible Fluid Flow in [this brief article](https://www.simscale.com/docs/analysis-types/incompressible-fluid-flow-analysis/).
-2. Read this article on [CFD on Turbomachinery](https://www.simscale.com/docs/simwiki/cfd-computational-fluid-dynamics/what-is-turbomachinery/)
+2. Read this article on [CFD on Turbomachinery](https://www.simscale.com/docs/simwiki/cfd-computational-fluid-dynamics/what-is-turbomachinery/) (Skip the FEA part)
 3. Perform this [tutorial of a centrifugal water pump](https://www.simscale.com/docs/tutorials/incompressible-flow-in-centrifugal-pumps/). It is interesting because it introduces important topics
    - Creating the _Flow Region_ (note that it is just **the opposite of the solid region**)
    - Creating a [Rotating Zone](https://www.simscale.com/docs/simulation-setup/advanced-concepts/rotating-zones/), important to simulate the rotation of the rotor of the turbomachine.
