@@ -42,7 +42,7 @@ In order to become familiar with CFD in Simscale,
 - [ ] Create an account in Simscale with the institutional UPC email
 - [ ] Read the two introductory articles on incompressible flow and turbomachinery CFD
 - [ ] Complete the **centrifugal pump tutorial** and take some screenshots of results and residuals
-- [ ] Take a look at the **Previous tasks** of next CFD notebook [C2 Aerodynamics of an Airfoil](./C2_aerodynamics_of_airfoil.ipynb)
+- [ ] Take a look at the **Previous tasks** section of next CFD notebook [C2 Aerodynamics of an Airfoil](./C2_aerodynamics_of_airfoil.ipynb)
   
 ## Some simple questions
 
