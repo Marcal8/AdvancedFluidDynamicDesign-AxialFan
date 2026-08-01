@@ -187,8 +187,8 @@ The following tasks have to be done in this first session:
  - [ ] Generate groups in Atenea
  - [ ] Create a [GitHub account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) with the UPC mail, if you don't have already it.
  - [ ] Read documentation for Git and GitHub in the [GitHub training website](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)
- - [ ] Leader: Use the [Project Template](https://github.com/UPC-Fluid-Mechanics/AxialFan-Project-Template) to create your own repository and invite the rest of the team as collavborators.
- - [ ] Create a clone of new repository in your local computer
+ - [ ] Leader: Use the [Project Template](https://github.com/UPC-Fluid-Mechanics/AxialFan-Project-Template) to create your own repository and invite the rest of the team as collaborators.
+ - [ ] Create a clone of the new repository in your local computer
  - [ ] If you don't have a preferred code editor, Visual Studio Code is recommended. [Install it](https://docs.github.com/en/get-started/git-basics/associating-text-editors-with-git).
 
 
