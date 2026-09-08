@@ -87,8 +87,8 @@ The specific planning will be published in Atenea, but an overall version is sho
 | D5 Final remarks | | | | | | | | | | ██ | | | |
 | **CFD** | | | | | | | | | | | | | |
 | C1 SimScale & first simulation | | | ██ | | | | | | | | | | |
-| C2 Aerodynamics of an airfoil | | | | | ██ | | | | | | | | |
-| C3 Turbulence and GCI | | | | | | | ██ | | | | | | |
+| C2 Boundary layer and GCI | | | | | ██ | | | | | | | | |
+| C3 Aerodynamics of an airfoil | | | | | | | ██ | | | | | | |
 | C4 Simulation of axial fan | | | | | | | | | ██ | | | | |
 | C5 Post-processing | | | | | | | | | | | ██ | | |
 | **Experimental** | | | | | | | | | | | | | |
