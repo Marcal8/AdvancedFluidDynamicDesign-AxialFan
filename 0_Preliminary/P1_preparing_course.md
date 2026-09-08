@@ -93,8 +93,8 @@ The specific planning will be published in Atenea, but an overall version is sho
 | C5 Post-processing | | | | | | | | | | | ██ | | |
 | **Experimental** | | | | | | | | | | | | | |
 | E1 Measurement of magnitudes | | ██ | | | | | | | | | | | |
-| E2 ISO 5801:2019 | | | | ██ | | | | | | | | | |
-| E3 Error management | | | | | | ██ | | | | | | | |
+| E2 Error management | | | | ██ | | | | | | | | | |
+| E3 ISO 5801:2019 | | | | | | ██ | | | | | | | |
 | E4 Airfoil aerodynamics | | | | | | | | ██ | | | | | |
 | E5 Fan testing in lab | | | | | | | | | | ██ | | | |
 | E6 Testbench design | | | | | | | | | | | | ██ | |
