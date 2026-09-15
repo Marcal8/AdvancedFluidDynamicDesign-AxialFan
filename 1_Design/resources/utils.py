@@ -21,3 +21,15 @@ def plot_velocity_triangle(U_vec, c_vec, title="Velocity Triangle"):
     plt.legend()
     plt.axis('equal')
     plt.show()
+
+
+def naca65_thickness(x, thickness_ratio):
+    """NACA 65-series thickness distribution"""
+    import numpy as np
+    # Coefficients for NACA 65-series thickness distribution
+    a0 = 0.2969
+    a1 = -0.1260
+    a2 = -0.3516
+    a3 = 0.2843
+    a4 = -0.1015
+    return (thickness_ratio/0.2) * (a0*np.sqrt(x) + a1*x + a2*x**2 + a3*x**3 + a4*x**4)
